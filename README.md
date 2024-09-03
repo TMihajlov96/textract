@@ -5,7 +5,7 @@ This is a simple script for the approach taken to extract Text, Images and Table
 
 The script reads sample PDF file on `/data` folder and return a text file that's stored on `data/processed` folder
 
-This medium article, (Unstructured PDF Text Extraction)[https://medium.com/@khadijamahanga/unstructured-pdf-text-extraction-3a20db14791e] highlights more on the problem and approach taken.
+This medium article, (Unstructured PDF Text Extraction)[https://medium.com/@khadijamahanga/unstructured-pdf-extraction-series-a8ba04da767f] highlights more on the problem and approach taken.
 
 
 
